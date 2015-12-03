@@ -73,6 +73,6 @@ sonarRunner {
 		property "sonar.jdbc.driver", "com.mysql.jdbc.Driver"
 		property "sonar.jdbc.username", "root"
 		property "sonar.jdbc.password", "root"
-		property "sonar.host.url", "http://172.27.59.137:9000"
+		property "sonar.host.url", "http://172.27.59.171:9000"
 	}
 }
